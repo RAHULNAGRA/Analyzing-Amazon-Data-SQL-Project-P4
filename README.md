@@ -1,4 +1,8 @@
-# Analyzing-Amazon-Data-SQL-Project-P4
+# Amazon-Sales-Data-Analysis-Project-P4
+
+## Overview
+
+This project involves analyzing sales data from Amazon to derive insights and answer specific queries related to product discounts, reviews, and pricing. The analysis aims to facilitate data-driven decision-making by identifying trends and patterns in the sales data.
 
 You are working at Amazon, a leading e-commerce platform. The management has tasked you with analyzing sales data by performing different queries in sql. 
 
@@ -18,3 +22,17 @@ You are working at Amazon, a leading e-commerce platform. The management has tas
 8. Find products where the discounted price ends with a 9
 9. Display review contents that contains words like worst, waste, poor, or not good.
 10. List all products where the category includes "Accessories."
+
+## Technologies Used
+
+- SQL for data querying and analysis
+- Google Drive for dataset and video storage
+- GitHub for version control and collaboration
+
+## Installation
+
+To run the SQL queries locally, follow these steps:
+
+1. Download the dataset from the provided link.
+2. Import the dataset into your SQL database management system.
+3. Execute the SQL queries to perform the analysis.
